@@ -1,2 +1,0 @@
-# fredtesting
-Sample website
